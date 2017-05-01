@@ -1,6 +1,6 @@
 # ohtu-viikko6
 
-- [ ] Laskin ja komento-oliot
+- [x] Laskin ja komento-oliot
 - [ ] Undo
 - [ ] Kyselykieli NHLStatistics-ohjelmaan
 - [ ] Parannettu kyselykieli
