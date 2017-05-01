@@ -1,7 +1,7 @@
 # ohtu-viikko6
 
 - [x] Laskin ja komento-oliot
-- [ ] Undo
+- [x] Undo
 - [ ] Kyselykieli NHLStatistics-ohjelmaan
 - [ ] Parannettu kyselykieli
 - [ ] Git: rebase
