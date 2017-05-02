@@ -1,3 +1,7 @@
+/.gradle/
 /Laskin/build/
 /Laskin/.gradle/
 /Laskin/.nb-gradle/
+/QueryLanguage/build/
+/QueryLanguage/.gradle/
+/QueryLanguage/.nb-gradle/

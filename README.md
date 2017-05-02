@@ -2,7 +2,7 @@
 
 - [x] Laskin ja komento-oliot
 - [x] Undo
-- [ ] Kyselykieli NHLStatistics-ohjelmaan
+- [x] Kyselykieli NHLStatistics-ohjelmaan
 - [ ] Parannettu kyselykieli
 - [ ] Git: rebase
 - [ ] git: monta etärepositorioa
