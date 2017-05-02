@@ -6,5 +6,5 @@
 - [x] Parannettu kyselykieli
 - [x] Git: rebase
 - [x] git: monta etärepositorioa
-- [ ] git: stash
+- [x] git: stash
 - [ ] GitHub: pull request ja refaktorointia (tätä tehtävää ei lasketa versionhallintatehtäväksi)
