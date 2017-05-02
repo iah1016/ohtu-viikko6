@@ -4,7 +4,7 @@
 - [x] Undo
 - [x] Kyselykieli NHLStatistics-ohjelmaan
 - [x] Parannettu kyselykieli
-- [ ] Git: rebase
+- [x] Git: rebase
 - [ ] git: monta etärepositorioa
 - [ ] git: stash
 - [ ] GitHub: pull request ja refaktorointia (tätä tehtävää ei lasketa versionhallintatehtäväksi)
