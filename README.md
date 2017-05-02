@@ -7,4 +7,4 @@
 - [x] Git: rebase
 - [x] git: monta etärepositorioa
 - [x] git: stash
-- [ ] GitHub: pull request ja refaktorointia (tätä tehtävää ei lasketa versionhallintatehtäväksi)
+- [x] GitHub: pull request ja refaktorointia (tätä tehtävää ei lasketa versionhallintatehtäväksi)
